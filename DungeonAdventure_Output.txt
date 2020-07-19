@@ -1,0 +1,869 @@
+Welcome to Dungeon Adventure!
+
+Choose of the following: 
+1. Game Info
+2. How to Play
+3. Play Now!
+Select an option -> 1
+
+Game Info Selected
+
+In this Dungeon Adventure game, you pick one of three Heros: A Warrior, Sorcerress, and a Thief.
+The chosen Hero will be thrown into a dangerous dungeon containing Monsters and Pits.
+The Hero is tasked with locating, retrieving, and safely extracting the Four Pillars of OO.
+
+Press Enter to display menu
+
+Choose of the following: 
+1. Game Info
+2. How to Play
+3. Play Now!
+Select an option -> 2
+
+How To Play Selected
+
+Your selected hero will be dropped into the dungeon. The room your hero is currently in
+will be displayed. You can either move your Hero, or use a potion. When you enter a room you will
+automatically iteract with whatever is located within the room. Your goal is to visit the 4 rooms
+containing the Pillars of OO and safely make it to the exit.
+
+Press Enter to display menu
+
+Choose of the following: 
+1. Game Info
+2. How to Play
+3. Play Now!
+Select an option -> 3
+
+Play Now Selected
+
+
+Choose a hero:
+1. Warrior
+2. Sorceress
+3. Thief
+Enter choice -> 1
+Enter character name: Jerett
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 125
+Healing Potions: 0
+Pillars of OO Found: 0
+
+Current Hero Location: 
+*-*
+|I|
+***
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 3
+
+Secret Option Chosen
+Current Dungeon:
+
+Dungeon Info:
+
+Items:
+M = Multiple Items
+P = Pit
+I = Entrance
+O = Exit
+H = Healing Potion
+E = Empty Room
+X = Monster
+0 = Pillar of OO
+
+Doors/Walls:
+North/South Wall = ***
+North/South Door = *-*
+East/West Wall = *
+East/West Door = |
+
+Current Dungeon:
+
+*** *** *** *** *** 
+*H| |0| |0| |P| |X* 
+*-* *-* *-* *-* *-* 
+*-* *-* *-* *-* *-* 
+*0| |E| |P| |M| |H* 
+*-* *-* *-* *-* *-* 
+*-* *-* *-* *-* *-* 
+*P| |X| |P| |E| |M* 
+*-* *-* *-* *-* *-* 
+*-* *-* *-* *-* *-* 
+*H| |P| |X| |E| |M* 
+*-* *-* *-* *-* *-* 
+*-* *-* *-* *-* *-* 
+*P| |O| |0| |I| |P* 
+*** *** *** *** *** 
+
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 125
+Healing Potions: 0
+Pillars of OO Found: 0
+
+Current Hero Location: 
+*-*
+|I|
+***
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 
+1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 4
+
+Current Location After Move:
+
+*-*
+|0|
+***
+
+You have found the Abstraction Pillar of OO! Adding to Inventory...
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 125
+Healing Potions: 0
+Pillars of OO Found: 1
+
+Current Hero Location: 
+*-*
+|E|
+***
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 1
+
+Current Location After Move:
+
+*-*
+|X|
+*-*
+
+Jerett has encountered a Monster! They must battle it to the death!
+Jerett battles Gnarltooth the Gremlin
+---------------------------------------------
+Number of turns this round is: 1
+1. Attack Opponent
+2. Crushing Blow
+Choose an option: 2
+Jerett failed to land a crushing blow
+
+Gnarltooth the Gremlin jabs his kris at Jerett:
+Jerett hit  for <8> points damage.
+Jerett now has 117 hit points remaining.
+
+
+
+Number of turns this round is: 1
+1. Attack Opponent
+2. Crushing Blow
+Choose an option: 2
+Jerett lands a CRUSHING BLOW for 136 damage!
+Gnarltooth the Gremlin hit  for <136> points damage.
+Gnarltooth the Gremlin now has 0 hit points remaining.
+
+Gnarltooth the Gremlin has been killed :-(
+
+Jerett was victorious!
+
+Gnarltooth the Gremlin dropped a Healing Potion!
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 117
+Healing Potions: 1
+Pillars of OO Found: 1
+
+Current Hero Location: 
+*-*
+|E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 4
+
+Current Location After Move:
+
+*-*
+|P|
+*-*
+
+Jerett fell down a pit and lost 17 HitPoints!
+Jerett hit  for <17> points damage.
+Jerett now has 100 hit points remaining.
+
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 100
+Healing Potions: 1
+Pillars of OO Found: 1
+
+Current Hero Location: 
+*-*
+|P|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 4
+
+Current Location After Move:
+
+*-*
+*H|
+*-*
+
+Jerett found a Healing Potion! Adding to Inventory...
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 100
+Healing Potions: 2
+Pillars of OO Found: 1
+
+Current Hero Location: 
+*-*
+*E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 1
+
+Current Location After Move:
+
+*-*
+*P|
+*-*
+
+Jerett fell down a pit and lost 8 HitPoints!
+Jerett hit  for <8> points damage.
+Jerett now has 92 hit points remaining.
+
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 92
+Healing Potions: 2
+Pillars of OO Found: 1
+
+Current Hero Location: 
+*-*
+*P|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 1
+
+Current Location After Move:
+
+*-*
+*0|
+*-*
+
+You have found the Encapsulation Pillar of OO! Adding to Inventory...
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 92
+Healing Potions: 2
+Pillars of OO Found: 2
+
+Current Hero Location: 
+*-*
+*E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 1
+
+Current Location After Move:
+
+***
+*H|
+*-*
+
+Jerett found a Healing Potion! Adding to Inventory...
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 92
+Healing Potions: 3
+Pillars of OO Found: 2
+
+Current Hero Location: 
+***
+*E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 2
+Jerett used a Healing Potion and restored <10> HitPoints
+
+No Healing Potions in Inventory!
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 102
+Healing Potions: 2
+Pillars of OO Found: 2
+
+Current Hero Location: 
+***
+*E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 2
+Jerett used a Healing Potion and restored <10> HitPoints
+
+No Healing Potions in Inventory!
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 112
+Healing Potions: 1
+Pillars of OO Found: 2
+
+Current Hero Location: 
+***
+*E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 2
+Jerett used a Healing Potion and restored <10> HitPoints
+
+No Healing Potions in Inventory!
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 122
+Healing Potions: 0
+Pillars of OO Found: 2
+
+Current Hero Location: 
+***
+*E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 3
+
+Current Location After Move:
+
+***
+|0|
+*-*
+
+You have found the Polymorphism Pillar of OO! Adding to Inventory...
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 122
+Healing Potions: 0
+Pillars of OO Found: 3
+
+Current Hero Location: 
+***
+|E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 3
+
+Current Location After Move:
+
+***
+|0|
+*-*
+
+You have found the Inheritance Pillar of OO! Adding to Inventory...
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 122
+Healing Potions: 0
+Pillars of OO Found: 4
+
+Current Hero Location: 
+***
+|E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 2
+
+Current Location After Move:
+
+*-*
+|P|
+*-*
+
+Jerett fell down a pit and lost 7 HitPoints!
+Jerett BLOCKED the attack!
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 122
+Healing Potions: 0
+Pillars of OO Found: 4
+
+Current Hero Location: 
+*-*
+|P|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 2
+
+Current Location After Move:
+
+*-*
+|P|
+*-*
+
+Jerett fell down a pit and lost 5 HitPoints!
+Jerett hit  for <5> points damage.
+Jerett now has 117 hit points remaining.
+
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 117
+Healing Potions: 0
+Pillars of OO Found: 4
+
+Current Hero Location: 
+*-*
+|P|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 4
+
+Current Location After Move:
+
+*-*
+|X|
+*-*
+
+Jerett has encountered a Monster! They must battle it to the death!
+Jerett battles Oscar the Ogre
+---------------------------------------------
+Number of turns this round is: 2
+1. Attack Opponent
+2. Crushing Blow
+Choose an option: 2
+Jerett failed to land a crushing blow
+
+Number of turns remaining is: 1
+1. Attack Opponent
+2. Crushing Blow
+Choose an option: 2
+Jerett failed to land a crushing blow
+
+Oscar the Ogre slowly swings a club toward's Jerett:
+Jerett hit  for <20> points damage.
+Jerett now has 97 hit points remaining.
+
+
+
+Number of turns this round is: 2
+1. Attack Opponent
+2. Crushing Blow
+Choose an option: 2
+Jerett lands a CRUSHING BLOW for 157 damage!
+Oscar the Ogre hit  for <157> points damage.
+Oscar the Ogre now has 43 hit points remaining.
+
+Number of turns remaining is: 1
+1. Attack Opponent
+2. Crushing Blow
+Choose an option: 2
+Jerett failed to land a crushing blow
+
+Oscar the Ogre slowly swings a club toward's Jerett:
+Jerett hit  for <23> points damage.
+Jerett now has 74 hit points remaining.
+
+
+
+Number of turns this round is: 2
+1. Attack Opponent
+2. Crushing Blow
+Choose an option: 2
+Jerett lands a CRUSHING BLOW for 138 damage!
+Oscar the Ogre hit  for <138> points damage.
+Oscar the Ogre now has 0 hit points remaining.
+
+Oscar the Ogre has been killed :-(
+Number of turns remaining is: 1
+1. Attack Opponent
+2. Crushing Blow
+Choose an option: 1
+Jerett swings a mighty sword at Oscar the Ogre:
+Oscar the Ogre hit  for <31> points damage.
+Oscar the Ogre now has 0 hit points remaining.
+
+Oscar the Ogre has been killed :-(
+
+
+Jerett was victorious!
+
+Oscar the Ogre dropped a Healing Potion!
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 74
+Healing Potions: 1
+Pillars of OO Found: 4
+
+Current Hero Location: 
+*-*
+|E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 2
+
+Current Location After Move:
+
+*-*
+|P|
+*-*
+
+This room is empty! Move Along!
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 74
+Healing Potions: 1
+Pillars of OO Found: 4
+
+Current Hero Location: 
+*-*
+|P|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 4
+
+Current Location After Move:
+
+*-*
+*E|
+*-*
+
+This room is empty! Move Along!
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 74
+Healing Potions: 1
+Pillars of OO Found: 4
+
+Current Hero Location: 
+*-*
+*E|
+*-*
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 2
+
+Current Location After Move:
+
+*-*
+*P|
+***
+
+Jerett fell down a pit and lost 7 HitPoints!
+Jerett hit  for <7> points damage.
+Jerett now has 67 hit points remaining.
+
+
+
+Hero Info: 
+
+Name: Jerett
+HitPoints: 67
+Healing Potions: 1
+Pillars of OO Found: 4
+
+Current Hero Location: 
+*-*
+*P|
+***
+
+Hero Options:
+1. Move Hero
+2. Use Potion
+Enter choice -> 1
+
+Jerett Latimer
+Full Game Output
+6/12/2019
+
+
+Move Hero Selected
+
+Move Jerett in one of the following directions: 
+1. Move North
+2. Move South
+3. Move East
+4. Move West
+
+Enter choice -> 3
+
+Current Location After Move:
+
+*-*
+|O|
+***
+Jerett has conquered the dungeon!!!
+ You are a WINNER!
+Play again (y/n)?
+n
