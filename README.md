@@ -2,7 +2,7 @@
 
 ![Imgur](https://imgur.com/q02ZDob.jpg)
 
-## A menu-driven console game where the user's selected hero is dropped into the dungeon with one goal, find each of the four Pillars of OO(Absctraction, Encapsulation, Inheritance, and Polymorphism) and escape alive! The hero moves throughout the maze gathering potions, battling monsters, and avoiding pits. Once all four Pillars are retrieved, the hero must locate the exit to extract and win the game.
+***A menu-driven console game where the user's selected hero is dropped into the dungeon with one goal, find each of the four Pillars of OO(Absctraction, Encapsulation, Inheritance, and Polymorphism) and escape alive! The hero moves throughout the maze gathering potions, battling monsters, and avoiding pits. Once all four Pillars are retrieved, the hero must locate the exit to extract and win the game.***
 
 ### Need to Know:
 * Once the Hero enters a room, they automatically interact with whatever is in that room.
@@ -24,3 +24,7 @@
   ```
   java -jar DungeonAdventure.jar
   ```
+  
+### Supporting Documents:
+* [UML](https://github.com/JerettLatimer/Dungeon-Adventure/blob/master/DungeonAdventure_UML.pdf)
+* [Playthrough Output](https://github.com/JerettLatimer/Dungeon-Adventure/blob/master/DungeonAdventure_Output.txt) (Shows a successful playthrough start to finish)
