@@ -843,11 +843,6 @@ Hero Options:
 2. Use Potion
 Enter choice -> 1
 
-Jerett Latimer
-Full Game Output
-6/12/2019
-
-
 Move Hero Selected
 
 Move Jerett in one of the following directions: 
